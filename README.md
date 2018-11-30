@@ -1,5 +1,5 @@
-# RaiBlocksJS
-JavaScript functions for RaiBlocks node/wallet management via RPC commands
+# NanoJS
+JavaScript functions for Nano node/wallet management via RPC commands
 https://github.com/clemahieu/raiblocks/wiki/RPC-protocol
 
 **Optimized for 7.9.0 version**  
